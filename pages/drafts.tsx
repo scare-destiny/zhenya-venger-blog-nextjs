@@ -41,7 +41,7 @@ const Drafts: React.FC<Props> = (props) => {
     return (
       <Layout>
         <h1>My Drafts</h1>
-        <div>You need to be authenticated to view this page!</div>
+        <div>You need to be authenticated to view this page</div>
       </Layout>
     );
   }
