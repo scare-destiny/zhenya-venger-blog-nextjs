@@ -1,0 +1,12 @@
+
+[Interface]
+PrivateKey = /0PG8auRKXBlHZ1l2kz+JF48QpLtjYUqWV+xhRxpSus=
+Address = fdaa:0:b3a2:a7b:8dd7:0:a:102/120
+DNS = fdaa:0:b3a2::3
+
+[Peer]
+PublicKey = KC8fjwgUb9FD3xyuhqCcl/igTVRapt9zC1goAPGtIDs=
+AllowedIPs = fdaa:0:b3a2::/48
+Endpoint = fra2.gateway.6pn.dev:51820
+PersistentKeepalive = 15
+
